@@ -19,5 +19,6 @@ while True :
     if cv2.waitKey(10) == ord("a"):
         break
 
+
 video_cap.release()    
 
